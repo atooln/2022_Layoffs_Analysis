@@ -1,2 +1,2 @@
-./logs
-./chest_xray
+logs/*
+chest_xray
