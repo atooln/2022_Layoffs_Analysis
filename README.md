@@ -1,4 +1,4 @@
 # Medical Imaging Pneumonia Detection 
 
-**Link to Dataset: ** https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia 
+Used the following [Kaggle dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia).
  
